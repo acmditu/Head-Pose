@@ -71,6 +71,7 @@ int main(int argc, char **argv)
     cv::imshow("Output", im);
     cv::waitKey(0);
     print("Hacktober");
+    print("hacktober");
 
 }
 
