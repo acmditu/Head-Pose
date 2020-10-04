@@ -40,7 +40,7 @@ camera_matrix = np.array(
                          )
 
 print "Camera Matrix :\n {0}".format(camera_matrix);
-
+print("headpose")
 dist_coeffs = np.zeros((4,1)) # Assuming no lens distortion
 (success, rotation_vector, translation_vector) = cv2.solvePnP(model_points, image_points, camera_matrix, dist_coeffs, flags=cv2.SOLVEPNP_ITERATIVE)
 
