@@ -67,4 +67,7 @@ cv2.line(im, p1, p2, (255,0,0), 2)
 # Display image
 cv2.imshow("Output", im);
 cv2.waitKey(0);
-
+print("hacktober")
+print("Hacktober")
+print("ACM hacktober")
+print("ACM Hacktober")
