@@ -68,3 +68,4 @@ cv2.line(im, p1, p2, (255,0,0), 2)
 cv2.imshow("Output", im);
 cv2.waitKey(0);
 print("hacktober fest")
+print("Hacktober Fest")
