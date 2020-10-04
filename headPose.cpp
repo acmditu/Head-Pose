@@ -64,6 +64,9 @@ int main(int argc, char **argv)
     
     cout <<  nose_end_point2D << endl;
     
+    // hacktober
+    cout << "sharangdhar hacktober fest" << endl;
+    
     // Display image.
     cv::imshow("Output", im);
     cv::waitKey(0);
