@@ -66,6 +66,7 @@ int main(int argc, char **argv)
     
     // hacktober
     cout << "sharangdhar hacktober fest" << endl;
+    cout << "Anil Hacktober fest!";
     
     // Display image.
     cv::imshow("Output", im);
