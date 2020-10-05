@@ -70,6 +70,5 @@ int main(int argc, char **argv)
     // Display image.
     cv::imshow("Output", im);
     cv::waitKey(0);
-
 }
 
