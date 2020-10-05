@@ -70,8 +70,5 @@ int main(int argc, char **argv)
     // Display image.
     cv::imshow("Output", im);
     cv::waitKey(0);
-    print("HACTOBER FEST 2020")
-        print("hacktober fest")
-
 }
 
