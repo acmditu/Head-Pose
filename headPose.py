@@ -39,13 +39,13 @@ camera_matrix = np.array(
                          [0, 0, 1]], dtype = "double"
                          )
 
-print "Camera Matrix :\n {0}".format(camera_matrix);
+print "Camera Matrix :\n {name}".format(name="camera_matrix");
 print("headpose")
 dist_coeffs = np.zeros((4,1)) # Assuming no lens distortion
 (success, rotation_vector, translation_vector) = cv2.solvePnP(model_points, image_points, camera_matrix, dist_coeffs, flags=cv2.SOLVEPNP_ITERATIVE)
 
-print "Rotation Vector:\n {0}".format(rotation_vector)
-print "Translation Vector:\n {0}".format(translation_vector)
+print "Rotation Vector:\n {rotate}".format(rotate="rotation_vector")
+print "Translation Vector:\n {tran}".format(trans="translation_vector")
 
 
 # Project a 3D point (0, 0, 1000.0) onto the image plane.
@@ -67,4 +67,4 @@ cv2.line(im, p1, p2, (255,0,0), 2)
 # Display image
 cv2.imshow("Output", im);
 cv2.waitKey(0);
-print("hacktober fest")
+print(" HAPPY HACKING --> HACTOBER FEST 2020 ")
