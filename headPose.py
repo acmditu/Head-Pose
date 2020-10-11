@@ -70,6 +70,9 @@ cv2.waitKey(0);
 print(" HAPPY HACKING --> HACTOBER FEST 2020 ")
 print("hacktober 2020")
 
+print("hacktober fest 2020")
+
+
 print("hacktober fest dit 2020");
 
 print("sukhmeet singh duggal ACM project fest 2020);
