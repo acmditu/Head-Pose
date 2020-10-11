@@ -67,10 +67,12 @@ int main(int argc, char **argv)
     // hacktober
     cout << "sharangdhar hacktober fest" << endl;
     cout << "Anil Hacktober fest!";
+    cout << "hacktober" ;
     cout << "Hacktober" << endl;
-    
+   
     // Display image.
     cv::imshow("Output", im);
     cv::waitKey(0);
+    
 }
 
