@@ -76,4 +76,9 @@ print("hacktober fest 2020")
 print("hacktober fest dit 2020");
 
 print("sukhmeet singh duggal ACM project fest 2020);
+      
+print("hacktober fest dit 2020");
+
+print("Rishabh Singh Pal ACM project fest 2020");
+
 
