@@ -67,6 +67,4 @@ cv2.line(im, p1, p2, (255,0,0), 2)
 # Display image
 cv2.imshow("Output", im);
 cv2.waitKey(0);
-print(" HAPPY HACKING --> HACTOBER FEST 2020 ")
-print("hacktober 2020")
-print("Hacktober fest 2020")
+
