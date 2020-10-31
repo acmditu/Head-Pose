@@ -70,6 +70,7 @@ int main(int argc, char **argv)
     cout << "hacktober" ;
     cout << "Avni Hacktober fest";
     cout << "HACKTOBER 2020";
+    cout << "Hactober Fest 2020 ";
     cout << "Hacktober" << endl;
    
     // Display image.
