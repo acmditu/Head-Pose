@@ -62,6 +62,7 @@ p1 = ( int(image_points[0][0]), int(image_points[0][1]))
 p2 = ( int(nose_end_point2D[0][0][0]), int(nose_end_point2D[0][0][1]))
 
 cv2.line(im, p1, p2, (255,0,0), 2)
+printf("hacktober fest 2020")
 
 
 # Display image
