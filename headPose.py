@@ -6,7 +6,7 @@ import numpy as np
 # Read Image
 im = cv2.imread("headPose.jpg");
 size = im.shape
-    
+print("Loading Open CV")    
 #2D image points. If you change the image, you need to change vector
 image_points = np.array([
                             (359, 391),     # Nose tip
